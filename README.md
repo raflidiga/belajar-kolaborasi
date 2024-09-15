@@ -1,4 +1,4 @@
 # belajar-kolaborasi
 
-belajar kolaborasi di github
-Saya belajar dicoding materinya sangat bagus
+* belajar kolaborasi di github<br>
+* Saya belajar dicoding materinya sangat bagus
